@@ -10,7 +10,7 @@ export default function Landing_page() {
   <img class="landing_page_image" src="images/landingpage.jpg" alt="landing_pages"></img>
   </section>
   <section class="right">
-    <h1 class="text">10x InstaClone by Ashwin Jose</h1>
+    <h1 class="text">10x InstaClone by Ashwin</h1>
     <br>
     <Link to="/postview"><button> Enter </button></Link>
   </section>
